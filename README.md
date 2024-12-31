@@ -11,13 +11,8 @@ Experienced software engineer with eight years in developing user-friendly and a
 - **Languages:** TypeScript, JavaScript, C#
 - **Frameworks:** React, Angular, Node.js, Express
 
-## 📈 GitHub Stats
-
-![CoryWilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoryWilson&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 
 - **Email:** [ctwilson08@gmail.com](mailto:ctwilson08@gmail.com)
 - **LinkedIn:** [Cory Wilson](https://linkedin.com/in/corywilsondev)
 - **Site** [corywilson.dev](https://corywilson.dev)
-- 
