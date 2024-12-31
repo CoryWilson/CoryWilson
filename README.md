@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Cory Wilson! 👋
 
-<!--
-**CoryWilson/CoryWilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=CoryWilson)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experienced software engineer with eight years in developing user-friendly and accessible web applications. A keen and self-motivated problem solver seeking new challenges to make a meaningful impact.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** TypeScript, JavaScript, C#
+- **Frameworks:** React, Angular, Node.js, Express
+
+## 📈 GitHub Stats
+
+![CoryWilson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoryWilson&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **Email:** [ctwilson08@gmail.com](mailto:ctwilson08@gmail.com)
+- **LinkedIn:** [Cory Wilson](https://linkedin.com/in/corywilsondev)
+- **Site** [corywilson.dev](https://corywilson.dev)
+- 
